@@ -485,31 +485,6 @@ section {
     box-shadow: var(--shadow-lg);
 }
 
-.about-experience {
-    position: absolute;
-    bottom: 30px;
-    right: 30px;
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-    padding: 30px;
-    border-radius: 20px;
-    text-align: center;
-    box-shadow: var(--shadow-lg);
-}
-
-.experience-number {
-    font-size: 48px;
-    font-weight: 800;
-    color: var(--bg-primary);
-    line-height: 1;
-}
-
-.experience-text {
-    font-size: 14px;
-    font-weight: 600;
-    color: var(--bg-primary);
-    margin-top: 5px;
-}
-
 .about-content {
     padding-left: 40px;
 }
